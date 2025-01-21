@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.refugio.dao"},{"l":"com.refugio.main"},{"l":"com.refugio.model"},{"l":"com.refugio.service"}];updateSearchResults();
